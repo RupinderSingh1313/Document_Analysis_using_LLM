@@ -12,3 +12,9 @@
 - Efficient Data Processing: Implement tools and techniques to handle large volumes of text data efficiently, addressing the input size limitations of LLMs.
 - User-Friendly Interface: All above points can be done via a simple and interactive UI that allows users to easily query and retrieve summarised information and trends from a large corpus of academic literature.
 
+# HOW TO RUN THIS PROJECT
+
+- Download the zip file of this project and extract it in a folder in your system.
+- Then get your unique keys of semantic scholar and huggingface from their official websites.
+- Then update these keys in config.py file
+- Then execute this command in the terminal to interact with this project - streamlit run gui.py
