@@ -18,10 +18,10 @@
 - Then get your unique keys of semantic scholar and huggingface from their official websites.
 - Then update these keys in config.py file
 - Then execute this command in the terminal to install all required libraries
-''' bash
+'''
   pip install -r requirements.txt
 '''
 - Now , execute this command in the terminal to interact with this project
-''' bash
+'''
   streamlit run gui.py
 '''
