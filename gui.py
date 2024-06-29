@@ -1,4 +1,16 @@
-#         streamlit run gui.py
+"""
+
+Kindly have all these libraries installed in your system - 
+
+pip install langchain
+pip install huggingface-hub
+pip install sentence-transformers
+pip install chromadb
+pip install langchain-text-splitters
+pip install unstructured[pdf]  
+pip install langchain-community
+
+"""
 
 import streamlit as st
 import time
@@ -162,8 +174,4 @@ if __name__ == "__main__":
     display_mainform()  # Run the main form display function
     
     
-
-# %pip install -qU langchain-text-splitters
-# pip install unstructured[pdf]  
-# pip install langchain-community
 
