@@ -1,4 +1,4 @@
-# WHY THIS PROJECT ?
+# 👨🏻‍💻 Acumen - Academic Paper Insights
 
 - In the digital age, the volume of academic literature has exponentially increased, making it challenging for researchers to keep up with the latest advancements and discoveries in their fields. Traditional methods of literature review and data extraction are time-consuming and inefficient, often resulting in missed critical insights.
 - To address these challenges, this project explores the integration of large language models (LLMs) with Semantic Scholar, an AI-powered research tool designed to help users navigate vast amounts of academic papers.
